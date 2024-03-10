@@ -11,8 +11,6 @@
 
 # FindMyDoctor App
 
-# FindMyDoctor App
-
 ## Overview
 
 **FindMyDoctor** is a cutting-edge mobile application designed to revolutionize the way users access healthcare services. In an era where reducing patient wait times is crucial for enhancing overall satisfaction, our app stands as a beacon of efficiency and convenience.
@@ -20,22 +18,22 @@
 ## Key Features
 
 ### **Instant Doctor Locator**
-Easily find and connect with nearby doctors based on your current location and preferences. The app ensures a seamless experience, eliminating the need for extended search times.
+- Easily find and connect with nearby doctors based on your current location coordinates and preferences. The app ensures a seamless experience, eliminating the need for extended search times.
 
 ### **AI-Driven Recommendations**
-Experience personalized doctor recommendations powered by advanced AI algorithms. The app analyzes real-time data, including geographical proximity, current patient loads, and historical wait times, to provide tailored suggestions.
+- Experience personalized doctor recommendations powered by advanced AI algorithms. The app analyzes real-time data, including geographical proximity, current patient loads, and historical wait times, to provide tailored suggestions.
 
 ### **Specialized Searches**
-Tailor your search for healthcare professionals based on specific symptoms. The app allows users to find doctors with expertise in addressing particular health concerns, ensuring a precise match.
+- Tailor your search for healthcare professionals based on specific symptoms. The app allows users to find doctors with expertise in addressing particular health concerns, ensuring a precise match.
 
 ### **Real-Time Data Insights**
-Stay informed with real-time data on current patient loads, waiting times, and doctor availability. Make decisions based on the latest information to streamline your healthcare experience.
+- Stay informed with real-time data on current patient loads, waiting times, and doctor availability. Make decisions based on the latest information to streamline your healthcare experience.
 
 ### **Google Maps Integration**
-Effortlessly locate nearby healthcare providers and plan your visits with integrated Google Maps functionality. Navigate to your chosen doctor's location with ease.
+- Effortlessly locate nearby healthcare providers and plan your visits with integrated Google Maps functionality. Navigate to your chosen doctor's location with ease.
 
 ### **AI recommended health diagnosis**
-Beyond finding doctor, the app diagnosis the patients medical condition. Address mental health concerns such as anxiety, depression, and stress, with tailored suggestions from qualified professionals.
+- Beyond finding doctor, the app diagnosis the patients medical condition. Address mental health concerns such as anxiety, depression, and stress, with tailored suggestions from qualified professionals.
 
 ## How to Use
 
